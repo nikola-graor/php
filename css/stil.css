@@ -1,0 +1,27 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: #cccccc;
+	color: #444444;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 14px;
+}
+
+
+
+
+#forma {
+	
+	width: 350px;
+	margin: 200 auto;
+	background: #FFFFFF;
+	border: 1px solid #777777;	
+	text-align:center;
+	box-shadow: 10px 10px 5px #888888;
+
+}
+
+#wrap {
+
+	margin: 15;
+}
